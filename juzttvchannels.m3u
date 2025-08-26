@@ -1,9 +1,7 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-name="Kapamilya Channel" tvg-logo="" group-title="Entertainment",Kapamilya Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
-
 
 #EXTINF:-1,30A We Love Cars
 https://30a-tv.com/feeds/vidaa/cars.m3u8
