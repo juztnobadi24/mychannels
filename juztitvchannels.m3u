@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-name="Kapamilya Channel" tvg-logo="" group-title="Entertainment",Kapamilya Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
+#EXTINF:-1 tvg-name="TV5 HD" tvg-logo="" group-title="Entertainment",TV5 HD
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd|licensekey=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
+
 #EXTINF:-1,30A We Love Cars
 https://30a-tv.com/feeds/vidaa/cars.m3u8
 
