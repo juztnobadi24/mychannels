@@ -1,15 +1,15 @@
 #EXTM3U
 
+# CINEMA ONE
+#EXTINF:-1 tvg-id="CINEMAONE" tvg-name="CINEMA ONE" group-title="Philippines",CINEMA ONE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
+
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Family;Movies",Rakuten TV Family Movies UK (1080p)
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
 
 # GMA
 #EXTINF:-1 tvg-id="GMA" tvg-name="GMA" group-title="Philippines",GMA
 http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-# CINEMA ONE
-#EXTINF:-1 tvg-id="CINEMAONE" tvg-name="CINEMA ONE" group-title="Philippines",CINEMA ONE
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
 
 # CINEMO!
 #EXTINF:-1 tvg-id="CINEMO" tvg-name="CINEMO!" group-title="Philippines",CINEMO!
