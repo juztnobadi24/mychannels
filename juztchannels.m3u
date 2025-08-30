@@ -1,8 +1,72 @@
 #EXTM3U
 
-#EXTM3U
+# GMA
 #EXTINF:-1 tvg-id="GMA" tvg-name="GMA" group-title="Philippines",GMA
 http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+# CINEMA ONE
+#EXTINF:-1 tvg-id="CINEMAONE" tvg-name="CINEMA ONE" group-title="Philippines",CINEMA ONE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
+
+# CINEMO!
+#EXTINF:-1 tvg-id="CINEMO" tvg-name="CINEMO!" group-title="Philippines",CINEMO!
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
+
+# GMA PINOY TV
+#EXTINF:-1 tvg-id="GMAPINOYTV" tvg-name="GMA PINOY TV" group-title="Philippines",GMA PINOY TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/index.mpd
+
+# KAPAMILYA CHANNEL
+#EXTINF:-1 tvg-id="KAPAMILYACHANNEL" tvg-name="KAPAMILYA CHANNEL" group-title="Philippines",KAPAMILYA CHANNEL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
+
+# PTV 4
+#EXTINF:-1 tvg-id="PTV4" tvg-name="PTV 4" group-title="Philippines",PTV 4
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
+
+# Warner TV HD
+#EXTINF:-1 tvg-id="WARNERTVHD" tvg-name="Warner TV HD" group-title="Philippines",Warner TV HD
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/cg_warnerhd.mpd
+
+# HBO HD
+#EXTINF:-1 tvg-id="HBOHD" tvg-name="HBO HD" group-title="Philippines",HBO HD
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+
+# HBO Family HD
+#EXTINF:-1 tvg-id="HBOFAMILYHD" tvg-name="HBO Family HD" group-title="Philippines",HBO Family HD
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+
+# Cinemax HD
+#EXTINF:-1 tvg-id="CINEMAXHD" tvg-name="Cinemax HD" group-title="Philippines",Cinemax HD
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+
+# HBO Signature HD
+#EXTINF:-1 tvg-id="HBOSIGNATUREHD" tvg-name="HBO Signature HD" group-title="Philippines",HBO Signature HD
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+
+# Animax
+#EXTINF:-1 tvg-id="ANIMAX" tvg-name="Animax" group-title="Philippines",Animax
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_animax_sd_new.mpd
+
+# DreamWorks HD
+#EXTINF:-1 tvg-id="DREAMWORKSHD" tvg-name="DreamWorks HD" group-title="Philippines",DreamWorks HD
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
+
+# Nickelodeon SD
+#EXTINF:-1 tvg-id="NICKELODEONSD" tvg-name="Nickelodeon SD" group-title="Philippines",Nickelodeon SD
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_nickelodeon.mpd
+
+# Animal Planet
+#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="Animal Planet" group-title="Philippines",Animal Planet
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
+
+# Cartoon Network HD
+#EXTINF:-1 tvg-id="CARTOONNETHD" tvg-name="Cartoon Network HD" group-title="Philippines",Cartoon Network HD
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
+
+# Nick JR
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="Nick JR" group-title="Philippines",Nick JR
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd
 
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Family;Movies",Rakuten TV Family Movies UK (1080p)
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
