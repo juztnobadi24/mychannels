@@ -5,99 +5,12 @@
 #EXTVLCOPT:dash-https-license-url=https://www.iwanttfc.com/api/1.0/license?itemID=ZfYR-ZQ9qH430EU3qU1XZQ&kid=BD17AFB5-DC96-48A3-9BE7-9EE3634DD4B8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
-
-#EXTINF:-1,Animax
-#LICENSE:{"edf1a715de9748638dd2fad75a419af2":"2f5a3199b26e9b693ae881af7ff864cf"}
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="nbatvphilippines" tvg-name="NBA TV Philippines" tvg-logo="" group-title="Sports",NBA TV Philippines
-#DRM:license=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a;type=widevine
-#EXTVLCOPT:dash-https-protection=playready
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
-
-#EXTINF:-1 tvg-id="premiersportshd" tvg-name="Premier Sports HD" tvg-logo="" group-title="Sports",Premier Sports HD
-#DRM:license=b8b595299fdf41c1a3481fddeb0b55e4:cd2b4ad0eb286239a4a022e6ca5fd007;type=widevine
-#EXTVLCOPT:dash-https-protection=playready
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_ps_hd1.mpd
-
-#EXTINF:-1 tvg-id="onesportshd" tvg-name="One Sports HD" tvg-logo="" group-title="Sports",One Sports HD
-#DRM:license=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd;type=widevine
-#EXTVLCOPT:dash-https-protection=playready
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
-
-#EXTINF:-1 tvg-id="pbarush" tvg-name="PBA Rush" tvg-logo="" group-title="Sports",PBA Rush
-#DRM:license=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82;type=widevine
-#EXTVLCOPT:dash-https-protection=playready
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
-
-
 # CINEMA ONE
 #EXTINF:-1 tvg-id="CINEMAONE" tvg-name="CINEMA ONE" group-title="Philippines",CINEMA ONE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Family;Movies",Rakuten TV Family Movies UK (1080p)
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
-
-# GMA
-#EXTINF:-1 tvg-id="GMA" tvg-name="GMA" group-title="Philippines",GMA
-http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-# CINEMO!
-#EXTINF:-1 tvg-id="CINEMO" tvg-name="CINEMO!" group-title="Philippines",CINEMO!
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
-
-# GMA PINOY TV
-#EXTINF:-1 tvg-id="GMAPINOYTV" tvg-name="GMA PINOY TV" group-title="Philippines",GMA PINOY TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/index.mpd
-
-# PTV 4
-#EXTINF:-1 tvg-id="PTV4" tvg-name="PTV 4" group-title="Philippines",PTV 4
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
-
-# Warner TV HD
-#EXTINF:-1 tvg-id="WARNERTVHD" tvg-name="Warner TV HD" group-title="Philippines",Warner TV HD
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/cg_warnerhd.mpd
-
-# HBO HD
-#EXTINF:-1 tvg-id="HBOHD" tvg-name="HBO HD" group-title="Philippines",HBO HD
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
-
-# HBO Family HD
-#EXTINF:-1 tvg-id="HBOFAMILYHD" tvg-name="HBO Family HD" group-title="Philippines",HBO Family HD
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
-
-# Cinemax HD
-#EXTINF:-1 tvg-id="CINEMAXHD" tvg-name="Cinemax HD" group-title="Philippines",Cinemax HD
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
-
-# HBO Signature HD
-#EXTINF:-1 tvg-id="HBOSIGNATUREHD" tvg-name="HBO Signature HD" group-title="Philippines",HBO Signature HD
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
-
-# Animax
-#EXTINF:-1 tvg-id="ANIMAX" tvg-name="Animax" group-title="Philippines",Animax
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_animax_sd_new.mpd
-
-# DreamWorks HD
-#EXTINF:-1 tvg-id="DREAMWORKSHD" tvg-name="DreamWorks HD" group-title="Philippines",DreamWorks HD
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
-
-# Nickelodeon SD
-#EXTINF:-1 tvg-id="NICKELODEONSD" tvg-name="Nickelodeon SD" group-title="Philippines",Nickelodeon SD
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_nickelodeon.mpd
-
-# Animal Planet
-#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="Animal Planet" group-title="Philippines",Animal Planet
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
-
-# Cartoon Network HD
-#EXTINF:-1 tvg-id="CARTOONNETHD" tvg-name="Cartoon Network HD" group-title="Philippines",Cartoon Network HD
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
-
-# Nick JR
-#EXTINF:-1 tvg-id="NICKJR" tvg-name="Nick JR" group-title="Philippines",Nick JR
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd
 
 #EXTINF:-1,30A We Love Cars
 https://30a-tv.com/feeds/vidaa/cars.m3u8
