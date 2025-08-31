@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #TV5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ddyfzrn.png" group-title="News",TV5
 #EXTVLCOPT:network-caching=1000
@@ -8,6 +7,43 @@
 #EXTVLCOPT:dash-drm=clearkey
 #EXTVLCOPT:dash-clearkeys=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
+
+#Animax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iYRTs2n.png" group-title="News",Animax
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:dash-format=mpd
+#EXTVLCOPT:dash-drm=clearkey
+#EXTVLCOPT:dash-clearkeys=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#Cartoon Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R1fV2uY.png" group-title="News",Cartoon Network
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:dash-format=mpd
+#EXTVLCOPT:dash-drm=clearkey
+#EXTVLCOPT:dash-clearkeys=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
+
+#Disney Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NVRbZfJ.png" group-title="Kids",Disney Channel
+https://disney-channel.13l.link/live/Disney/index.m3u8
+
+#DreamWorks Tagalized
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fh1Lg7b.png" group-title="News",DreamWorks Tagalized
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:dash-format=mpd
+#EXTVLCOPT:dash-drm=clearkey
+#EXTVLCOPT:dash-clearkeys=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+
+#DreamWorks
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fh1Lg7b.png" group-title="News",DreamWorks
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:dash-format=mpd
+#EXTVLCOPT:dash-drm=clearkey
+#EXTVLCOPT:dash-clearkeys=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
+
 
 
 #EXTINF:-1 tvg-id="kapamilyachannel" tvg-name="KAPAMILYA CHANNEL" tvg-logo="" group-title="Philippines",KAPAMILYA CHANNEL
