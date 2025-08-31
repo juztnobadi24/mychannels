@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="TV5" tvg-name="TV5" tvg-logo="https://i.imgur.com/Ddyfzrn.png" group-title="News",TV5
+https://your-server.com/tv5_master.m3u8|drm=clearkey|clearkey=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641c68e1cfdc4d|type=hls
 
 
 #EXTINF:-1 tvg-id="A2Z" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/10/21172907/a2z-logo.png" group-title="TV",A2Z
