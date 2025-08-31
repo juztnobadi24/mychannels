@@ -1,73 +1,32 @@
 #EXTM3U
 
-#TV5
-#EXTINF:-1 tvg-id="TV5" tvg-name="TV5" tvg-logo="https://i.imgur.com/Ddyfzrn.png" group-title="News",TV5
-#CLEARKEY:2615129ef2c846a9bbd43a641c7303ef=07c7f996b1734ea288641a68e1cfdc4d
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
-#NBA TV Philippines
-#EXTINF:-1 tvg-id="NBA TV Philippines" tvg-name="NBA TV Philippines" tvg-logo="https://i.imgur.com/sG7zuX0.png" group-title="News",NBA TV Philippines
-#CLEARKEY:f36eed9e95f140fabbc88a08abbeafff=0125600d0eb13359c28bdab4a2ebe75a
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
+#EXTINF:-1 tvg-id="A2Z" tvg-logo="https://i.imgur.com/pRwyOMP.png" group-title="DASH",A2Z
+#EXT-X-KEY:METHOD=SAMPLE-AES:KEYFORMAT="com.apple.streamingkeydelivery":KEYID="f703e4c8ec9041eeb5028ab4248fa094":KEY="c22f2162e176eee6273a5d0b68d19530"
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 
-#PTV4
-#EXTINF:-1 tvg-id="PTV4" tvg-name="PTV4" tvg-logo="https://i.imgur.com/Ktl7qZt.png" group-title="News",PTV4
-#CLEARKEY:71a130a851b9484bb47141c8966fb4a3=ad1f003b4f0b31b75ea4593844435600
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
+#EXTINF:-1 tvg-id="AllTV" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.MJMBDhCHZCJ45qwnEBy4dAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="HLS",AllTV
+https://ott.m3u8.nathcreqtives.com/alltv/stream/manifest.m3u8
 
-#Lotus Macau
-#EXTINF:-1 tvg-id="Lotus Macau" tvg-name="Lotus Macau" tvg-logo="https://i.imgur.com/sKfzEuf.png" group-title="News",Lotus Macau
-#CLEARKEY:60dc692e64ea443a8fb5ac186c865a9b=01bdbe22d59b2a4504b53adc2f606cc1
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd
+#EXTINF:-1 tvg-id="ABC Australia" tvg-logo="https://i.imgur.com/480rU5C.png" group-title="DASH",ABC Australia
+#EXT-X-KEY:METHOD=SAMPLE-AES:KEYFORMAT="com.apple.streamingkeydelivery":KEYID="389497f9f8584a57b234e27e430e04b7":KEY="3b85594c7f88604adf004e45c03511c0"
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd
 
-#Warner TV
-#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="News",Warner TV
-#CLEARKEY:4503cf86bca3494ab95a77ed913619a0=afc9c8f627fb3fb255dee8e3b0fe1d71
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" group-title="DASH",Animal Planet
+#EXT-X-KEY:METHOD=SAMPLE-AES:KEYFORMAT="com.apple.streamingkeydelivery":KEYID="436b69f987924fcbbc06d40a69c2799a":KEY="c63d5b0d7e52335b61aeba4f6537d54d"
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
 
-#HBO Signature
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://i.imgur.com/Q2ki7HC.png" group-title="News",HBO Signature
-#CLEARKEY:a06ca6c275744151895762e0346380f5=559da1b63eec77b5a942018f14d3f56f
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+#EXTINF:-1 tvg-id="Animax" tvg-logo="https://i.imgur.com/VLlyHhT.png" group-title="DASH",Animax
+#EXT-X-KEY:METHOD=SAMPLE-AES:KEYFORMAT="com.apple.streamingkeydelivery":KEYID="edf1a715de9748638dd2fad75a419af2":KEY="2f5a3199b26e9b693ae881af7ff864cf"
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#Nickelodeon
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/tIRSRoR.png" group-title="News",Nickelodeon
-#CLEARKEY:d8520e96a1283ab6e5be538474bfa810=bda5f7bbc1e44096f779a0619fe9881f
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
+#EXTINF:-1 tvg-id="Anime X Hidive" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/12/AnimeXHIDIVE_official-768x499.png" group-title="HLS",Anime X Hidive
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 
-#Nick Jr
-#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://i.imgur.com/nliH2PY.png" group-title="News",Nick Jr
-#CLEARKEY:fa65220c9f76e424173899df533a6d10=b4abbee95b69b3e80a0d141272c870db
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
+#EXTINF:-1 tvg-id="ANC" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/5/52/ANC_HD_Logo_2016.png/revision/latest?cb=20180404015018" group-title="DASH",ANC
+#EXT-X-KEY:METHOD=SAMPLE-AES:KEYFORMAT="com.apple.streamingkeydelivery":KEYID="4bbdc78024a54662854b412d01fafa16":KEY="6039ec9b213aca913821677a28bd78ae"
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
 
-#HBO
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.imgur.com/fHBIgs6.png" group-title="News",HBO
-#CLEARKEY:d47ebabf7a21430b83a8c4b82d9ef6b1=54c213b2b5f885f1e0290ee4131d425b
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
-
-#HBO Family
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://i.imgur.com/WANpEkc.png" group-title="News",HBO Family
-#CLEARKEY:872910c843294319800d85f9a0940607=f79fd895b79c590708cf5e8b5c6263be
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
-
-#Cartoon Network
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/R1fV2uY.png" group-title="News",Cartoon Network
-#CLEARKEY:a2d1f552ff9541558b3296b5a932136b=cdd48fa884dc0c3a3f85aeebca13d444
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
-
-#Disney Channel
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/NVRbZfJ.png" group-title="Kids",Disney Channel
-https://disney-channel.13l.link/live/Disney/index.m3u8
-
-#DreamWorks Tagalized
-#EXTINF:-1 tvg-id="DreamWorks Tagalized" tvg-name="DreamWorks Tagalized" tvg-logo="https://i.imgur.com/fh1Lg7b.png" group-title="News",DreamWorks Tagalized
-#CLEARKEY:564b3b1c781043c19242c66e348699c5=d3ad27d7fe1f14fb1a2cd5688549fbab
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
-
-#DreamWorks
-#EXTINF:-1 tvg-id="DreamWorks" tvg-name="DreamWorks" tvg-logo="https://i.imgur.com/fh1Lg7b.png" group-title="News",DreamWorks
-#CLEARKEY:4ab9645a2a0a47edbd65e8479c2b9669=8cb209f1828431ce9b50b593d1f44079
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 
 #PBS Kids
 #EXTINF:-1 tvg-id="PBS Kids" tvg-name="PBS Kids" tvg-logo="https://imgur.com/RNtLJ3S.png" group-title="Kids",PBS Kids
