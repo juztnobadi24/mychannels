@@ -6,10 +6,10 @@
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
 
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="Animation",Animax
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:dash-key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+#EXTINF:-1,Animax
+#LICENSE:https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
 
 
 #EXTINF:-1 tvg-id="nbatvphilippines" tvg-name="NBA TV Philippines" tvg-logo="" group-title="Sports",NBA TV Philippines
