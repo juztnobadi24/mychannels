@@ -1,12 +1,13 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 tvg-id="31" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_11-56-40-174.jpg" group-title="Kids",CARTOON NETWORK
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:network-caching=500        ; reduce buffering delay (in ms)
+#EXTVLCOPT:http-reconnect=true       ; auto-reconnect on disconnect
+#EXTVLCOPT:live-caching=500          ; for live streams
 #DRM-INFO: keyId="a2d1f552ff9541558b3296b5a932136b" key="cdd48fa884dc0c3a3f85aeebca13d444"
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
+
 
 
 
