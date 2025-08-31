@@ -1,35 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="cartoonnetwork" tvg-logo="https://i.imgur.com/R1fV2uY.png" group-title="Kids",Cartoon Network
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd|KID:{"a2d1f1234567890":"0123456789abcdef0123456789abcdef"}
+#EXTINF:-1 tvg-id="kapamilyachannel" tvg-name="KAPAMILYA CHANNEL" tvg-logo="" group-title="Philippines",KAPAMILYA CHANNEL
+#EXTVLCOPT:dash-https-protection=playready
+#EXTVLCOPT:dash-https-license-url=https://www.iwanttfc.com/api/1.0/license?itemID=ZfYR-ZQ9qH430EU3qU1XZQ&kid=BD17AFB5-DC96-48A3-9BE7-9EE3634DD4B8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="disneychannel" tvg-logo="https://i.imgur.com/xyz123.png" group-title="Kids",Disney Channel
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_disneychannelhd.mpd|KID:{"b3c2d0987654321":"fedcba9876543210fedcba9876543210"}
-
-#EXTINF:-1 tvg-id="nickjr" tvg-logo="https://i.imgur.com/abc456.png" group-title="Kids",Nick Jr
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjrhd.mpd|KID:{"c4e5f6789012345":"1234567890abcdef1234567890abcdef"}
-
-#EXTINF:-1 tvg-id="hbo" tvg-logo="https://i.imgur.com/hbo.png" group-title="Movies",HBO
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hbohd.mpd|KID:{"d5f6a7890123456":"abcdef1234567890abcdef1234567890"}
-
-#EXTINF:-1 tvg-id="fox" tvg-logo="https://i.imgur.com/fox.png" group-title="Entertainment",Fox
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_foxhd.mpd|KID:{"e6f7b8901234567":"0123456789abcdef0123456789abcdef"}
-
-#EXTINF:-1 tvg-id="cnn" tvg-logo="https://i.imgur.com/cnn.png" group-title="News",CNN
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cnn.mpd|KID:{"f7g8c9012345678":"fedcba9876543210fedcba9876543210"}
-
-#EXTINF:-1 tvg-id="natgeo" tvg-logo="https://i.imgur.com/natgeo.png" group-title="Documentary",Nat Geo
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_natgeo.mpd|KID:{"g8h9d0123456789":"1234567890abcdef1234567890abcdef"}
-
-#EXTINF:-1 tvg-id="discovery" tvg-logo="https://i.imgur.com/discovery.png" group-title="Documentary",Discovery
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_discovery.mpd|KID:{"h9i0e1234567890":"abcdef1234567890abcdef1234567890"}
-
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.imgur.com/espn.png" group-title="Sports",ESPN
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_espnhd.mpd|KID:{"i0j1f2345678901":"0123456789abcdef0123456789abcdef"}
-
-#EXTINF:-1 tvg-id="mtv" tvg-logo="https://i.imgur.com/mtv.png" group-title="Music",MTV
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_mtvdhd.mpd|KID:{"j1k2g3456789012":"fedcba9876543210fedcba9876543210"}
-
+# CINEMA ONE
+#EXTINF:-1 tvg-id="CINEMAONE" tvg-name="CINEMA ONE" group-title="Philippines",CINEMA ONE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-id="Anime X Hidive" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/12/AnimeXHIDIVE_official-768x499.png" group-title="HLS",Anime X Hidive
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
@@ -51,22 +29,11 @@ https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/
 https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 
 
-#EXTINF:-1 tvg-id="kapamilyachannel" tvg-name="KAPAMILYA CHANNEL" tvg-logo="" group-title="Philippines",KAPAMILYA CHANNEL
-#EXTVLCOPT:dash-https-protection=playready
-#EXTVLCOPT:dash-https-license-url=https://www.iwanttfc.com/api/1.0/license?itemID=ZfYR-ZQ9qH430EU3qU1XZQ&kid=BD17AFB5-DC96-48A3-9BE7-9EE3634DD4B8
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
-
-
 #EXTINF:-1 tvg-id="Animax" tvg-logo="https://th.bing.com/th/id/OIP.39-tpYJk2UwoQjQc7Af_oAHaCi?rs=1&pid=ImgDetMain" group-title="Anime",Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:input-slave="https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd"
 #EXTVLCOPT:dash-cpix-clear-key=edf1a715de9748638dd2fad75a419af2=2f5a3199b26e9b693ae881af7ff864cf
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-
-
-# CINEMA ONE
-#EXTINF:-1 tvg-id="CINEMAONE" tvg-name="CINEMA ONE" group-title="Philippines",CINEMA ONE
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Family;Movies",Rakuten TV Family Movies UK (1080p)
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
