@@ -1,11 +1,14 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="TV5" tvg-logo="https://i.imgur.com/Ddyfzrn.png" group-title="News",TV5
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd|DRM=clearkey|KEY=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641c7303ef|TYPE=mpegdash
 
 #EXTINF:-1 tvg-id="A2Z" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/10/21172907/a2z-logo.png" group-title="TV",A2Z
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd?clearkey=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
+
+
+#EXTINF:-1 tvg-id="TV5" tvg-name="TV5" tvg-logo="https://i.imgur.com/Ddyfzrn.png" group-title="News",TV5
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd|drm=clearkey|clearkey=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641c7303ef|type=mpegdash
+
 
 #EXTINF:-1 tvg-id="ABC Australia" tvg-logo="https://th.bing.com/th/id/R.867cf838cf27b5773da638acc80d8053?rik=CXB001zinv%2f2fg&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20100529153635%2flogopedia%2fimages%2ff%2ff9%2fABC_Australia_logo.png&ehk=EGDi5oCSKBzFrS1EADDUzHK%2fC%2fR0R4xMkC4M66J4i6U%3d&risl=&pid=ImgRaw&r=0" group-title="TV",ABC Australia
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd?clearkey=389497f9f8584a57b234e27e430e04b7:3b85594c7f88604adf004e45c03511c0
