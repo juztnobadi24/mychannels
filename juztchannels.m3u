@@ -8,6 +8,18 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 #EXTINF:-1 tvg-id="tv5hd" tvg-name="TV5 HD" tvg-logo="" group-title="Philippine TV",TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd|license=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 
+#EXTINF:-1 tvg-id="nbatvphilippines" tvg-name="NBA TV Philippines" tvg-logo="" group-title="Philippine TV",NBA TV Philippines
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd|license=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
+
+#EXTINF:-1 tvg-id="premiersportshd" tvg-name="Premier Sports HD" tvg-logo="" group-title="Philippine TV",Premier Sports HD
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_ps_hd1.mpd|license=b8b595299fdf41c1a3481fddeb0b55e4:cd2b4ad0eb286239a4a022e6ca5fd007
+
+#EXTINF:-1 tvg-id="onesportshd" tvg-name="One Sports HD" tvg-logo="" group-title="Philippine TV",One Sports HD
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd|license=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+
+#EXTINF:-1 tvg-id="pbarush" tvg-name="PBA Rush" tvg-logo="" group-title="Philippine TV",PBA Rush
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd|license=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
+
 # CINEMA ONE
 #EXTINF:-1 tvg-id="CINEMAONE" tvg-name="CINEMA ONE" group-title="Philippines",CINEMA ONE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
