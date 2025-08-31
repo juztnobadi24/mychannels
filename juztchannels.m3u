@@ -1,9 +1,8 @@
 #EXTM3U
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iYRTs2n.png" group-title="News",Animaxs
-https://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iYRTs2n.png" group-title="Anime", Animax Asia
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYRTs2n.png" group-title="News",Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
