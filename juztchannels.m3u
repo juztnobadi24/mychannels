@@ -1,17 +1,27 @@
 #EXTM3U
 
 
+# Channel 36 - ANIMAX
+#ID: 36
+#NAME: ANIMAX
+#LOGO: https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_11-58-35-902.jpg
+#STREAMURL: https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_animax_sd.mpd
+#DRMKEY-ID: 92032b0e41a543fb9830751273b8debd
+#DRMKEY: 03f8b65e2af785b10d6634735dbe6c11
+#GROUP: Animation
 #EXTINF:-1 tvg-id="36" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_11-58-35-902.jpg" group-title="Animation",ANIMAX
-#DRM-KEY-ID: 92032b0e41a543fb9830751273b8debd
-#DRM-KEY: 03f8b65e2af785b10d6634735dbe6c11
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_animax_sd.mpd
 
+# Channel 31 - CARTOON NETWORK
+#ID: 31
+#NAME: CARTOON NETWORK
+#LOGO: https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_11-56-40-174.jpg
+#STREAMURL: https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
+#DRMKEY-ID: a2d1f552ff9541558b3296b5a932136b
+#DRMKEY: cdd48fa884dc0c3a3f85aeebca13d444
+#GROUP: Animation
 #EXTINF:-1 tvg-id="31" tvg-logo="https://raw.githubusercontent.com/Raulabdul666/Drmpicture/refs/heads/main/Picsart_24-10-17_11-56-40-174.jpg" group-title="Animation",CARTOON NETWORK
-#DRM-KEY-ID: a2d1f552ff9541558b3296b5a932136b
-#DRM-KEY: cdd48fa884dc0c3a3f85aeebca13d444
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
-
-
 
 
 #EXTINF:-1 tvg-id="kapamilyachannel" tvg-name="KAPAMILYA CHANNEL" tvg-logo="" group-title="Philippines",KAPAMILYA CHANNEL
