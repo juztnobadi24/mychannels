@@ -1,56 +1,34 @@
 #EXTM3U
 
-#EXTM3U
-
-# Cartoon Network
 #EXTINF:-1 tvg-id="cartoonnetwork" tvg-logo="https://i.imgur.com/R1fV2uY.png" group-title="Kids",Cartoon Network
-#EXT-X-CLEARKEY:KEYID="a2d1f1234567890",KEY="0123456789abcdef0123456789abcdef"
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd|KID:{"a2d1f1234567890":"0123456789abcdef0123456789abcdef"}
 
-# Disney Channel
-#EXTINF:-1 tvg-id="disneychannel" tvg-logo="https://i.imgur.com/abcd123.png" group-title="Kids",Disney Channel
-#EXT-X-CLEARKEY:KEYID="b3c2d0987654321",KEY="fedcba9876543210fedcba9876543210"
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_disneychannelhd.mpd
+#EXTINF:-1 tvg-id="disneychannel" tvg-logo="https://i.imgur.com/xyz123.png" group-title="Kids",Disney Channel
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_disneychannelhd.mpd|KID:{"b3c2d0987654321":"fedcba9876543210fedcba9876543210"}
 
-# Nick Jr
-#EXTINF:-1 tvg-id="nickjr" tvg-logo="https://i.imgur.com/nickjr.png" group-title="Kids",Nick Jr
-#EXT-X-CLEARKEY:KEYID="c4e5f6789012345",KEY="1234567890abcdef1234567890abcdef"
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjrhd.mpd
+#EXTINF:-1 tvg-id="nickjr" tvg-logo="https://i.imgur.com/abc456.png" group-title="Kids",Nick Jr
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjrhd.mpd|KID:{"c4e5f6789012345":"1234567890abcdef1234567890abcdef"}
 
-# HBO
 #EXTINF:-1 tvg-id="hbo" tvg-logo="https://i.imgur.com/hbo.png" group-title="Movies",HBO
-#EXT-X-CLEARKEY:KEYID="d5f6a7890123456",KEY="abcdef1234567890abcdef1234567890"
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hbohd.mpd
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hbohd.mpd|KID:{"d5f6a7890123456":"abcdef1234567890abcdef1234567890"}
 
-# Fox
 #EXTINF:-1 tvg-id="fox" tvg-logo="https://i.imgur.com/fox.png" group-title="Entertainment",Fox
-#EXT-X-CLEARKEY:KEYID="e6f7b8901234567",KEY="0123456789abcdef0123456789abcdef"
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_foxhd.mpd
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_foxhd.mpd|KID:{"e6f7b8901234567":"0123456789abcdef0123456789abcdef"}
 
-# CNN
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://i.imgur.com/cnn.png" group-title="News",CNN
-#EXT-X-CLEARKEY:KEYID="f7g8c9012345678",KEY="fedcba9876543210fedcba9876543210"
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cnn.mpd
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cnn.mpd|KID:{"f7g8c9012345678":"fedcba9876543210fedcba9876543210"}
 
-# National Geographic
-#EXTINF:-1 tvg-id="natgeo" tvg-logo="https://i.imgur.com/natgeo.png" group-title="Education",Nat Geo
-#EXT-X-CLEARKEY:KEYID="g8h9d0123456789",KEY="1234567890abcdef1234567890abcdef"
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_natgeo.mpd
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="https://i.imgur.com/natgeo.png" group-title="Documentary",Nat Geo
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_natgeo.mpd|KID:{"g8h9d0123456789":"1234567890abcdef1234567890abcdef"}
 
-# Discovery Channel
-#EXTINF:-1 tvg-id="discovery" tvg-logo="https://i.imgur.com/discovery.png" group-title="Education",Discovery
-#EXT-X-CLEARKEY:KEYID="h9i0e1234567890",KEY="abcdef1234567890abcdef1234567890"
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_discovery.mpd
+#EXTINF:-1 tvg-id="discovery" tvg-logo="https://i.imgur.com/discovery.png" group-title="Documentary",Discovery
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_discovery.mpd|KID:{"h9i0e1234567890":"abcdef1234567890abcdef1234567890"}
 
-# ESPN
 #EXTINF:-1 tvg-id="espn" tvg-logo="https://i.imgur.com/espn.png" group-title="Sports",ESPN
-#EXT-X-CLEARKEY:KEYID="i0j1f2345678901",KEY="0123456789abcdef0123456789abcdef"
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_espnhd.mpd
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_espnhd.mpd|KID:{"i0j1f2345678901":"0123456789abcdef0123456789abcdef"}
 
-# MTV
 #EXTINF:-1 tvg-id="mtv" tvg-logo="https://i.imgur.com/mtv.png" group-title="Music",MTV
-#EXT-X-CLEARKEY:KEYID="j1k2g3456789012",KEY="fedcba9876543210fedcba9876543210"
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_mtvdhd.mpd
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_mtvdhd.mpd|KID:{"j1k2g3456789012":"fedcba9876543210fedcba9876543210"}
 
 
 #EXTINF:-1 tvg-id="Anime X Hidive" tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/12/AnimeXHIDIVE_official-768x499.png" group-title="HLS",Anime X Hidive
