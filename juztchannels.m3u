@@ -327,41 +327,226 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTINF:-1vg-name="ACTIONHWHD", Action Hollywood Movies HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/us-nba.png" group-title="ช่องทรูวิชั่น",NBA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://demo-live.siamzeed.com/
-https://x58fign4bt3.nk-i.com/NbOZIN5zPq6G0duAFojRdmtbVh8GVlBi/true-nba/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvjaa.com/storage/tv-channels/channel8thailand.png" group-title="Movie Channel",channel 8
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
+ 
+#EXTINF:-0 group-title="Movie Channel" tvg-id="hbo.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png", HBO TH
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/HBOTHAI.m3u8
+#EXTINF:-0 group-title="Movie Channel" tvg-id="hbosignature.th" tvg-logo="https://i.postimg.cc/rw9GnR69/hbos.png", HBO Signature
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/HBOSignature.m3u8
+#EXTINF:-0 group-title="Movie Channel"tvg-id="HBOHits.th" tvg-logo="https://upload.wikimedia.org/wikipedia/th/2/2e/HBOhits.png", HBO Hits
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/HBOHits.m3u8
+#EXTINF:-0 group-title="Movie Channel" tvg-id="HBOFamily.th" tvg-logo="https://i.postimg.cc/x8rbT9DC/lfdvs017.png",HBO FAMILY
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/HBOFAMILY.m3u8
+#EXTINF:-1 group-title="Movie Channel" tvg-id="cinemaxasia.sg" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",CINEMAX
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://streamer1.nexgen.bz/CINEMAX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.animax-asia.com/sites/all/themes/responsive/responsive_animax_asia_2/logo.png" group-title="ช่องรายการเด็ก",Animax HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vJdY0NG/animax.png" group-title="ช่องสำหรับเด็ก",ANIMAX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-#EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png" group-title="ช่องสำหรับเด็ก",Cartoonito
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
-#EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png" group-title="ช่องสำหรับเด็ก",Nick Jr
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
-#EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png" group-title="ช่องสำหรับเด็ก",Nickelodeon
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/157727c6-25b3-4fc8-ae12-95a471eb09a5/dhickau-87072274-e25b-48bc-bc87-8dd774b028e6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE1NzcyN2M2LTI1YjMtNGZjOC1hZTEyLTk1YTQ3MWViMDlhNVwvZGhpY2thdS04NzA3MjI3NC1lMjViLTQ4YmMtYmM4Ny04ZGQ3NzRiMDI4ZTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vyHP15MVtu-s9t2TrVJB8he42rrtVgYLeNDLhVmrTso" group-title="ช่องสำหรับเด็ก",Mr. Bean Cartoon
-https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG_1731837233662.png" group-title="ช่องสำหรับเด็ก",One Piece
-https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="ช่องสำหรับเด็ก",Naruto
-https://jmp2.uk/plu-5da0c85bd2c9c10009370984.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png" group-title="ช่องสำหรับเด็ก",Pokémon
-https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" group-title="ช่องสำหรับเด็ก",LEGO Kids TV
-https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="Movie Channel", WARNER TV
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/NBA.png" group-title="09. Sports TV",114. NBA
-https://wahyu1ptv.pages.dev/NBATV-HD.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/800px-Rock_Entertainment.png" group-title="Movie Channel", ROCK ENTERTAINMENT
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/rockentertainmentred.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://dookeela.live/uploads/1706112738.png",Discover
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/aisDiscover.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://dookeela.live/uploads/1706112755.png",Discover ASIA
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/DiscoverASIA.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSND0OlyfUtW80qspt_nY0JGE6zlSfhTLzyGg&s",ANIMALPLANET
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueANIMALPLANET.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://dookeela.live/uploads/1713508633.png",LOVE4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#EXTINF:-0 group-title="CARTOON" tvg-logo="https://dookeela.live/uploads/1708344306.png",nickelodeon
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/nicklodeon.m3u8
+#EXTINF:-0 group-title="CARTOON" tvg-logo="https://dookeela.live/uploads/1723200736.png",dreamworks
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truedreamworks.m3u8
+#EXTINF:-0 group-title="CARTOON" tvg-logo="https://dookeela.live/uploads/1720723541.png",truesparkplay
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truesparkplay.m3u8
+#EXTINF:-0 group-title="CARTOON" tvg-logo="https://dookeela.live/uploads/1708344243.png",cartoon network
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/cn.m3u8
+#EXTINF:-0 group-title="CARTOON" tvg-logo="https://dookeela.live/uploads/1705504202.png",boomerang
+https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/IMG_20241019_193424.jpg" group-title="CARTOON" tvg-logo=,boom_anime
+https://edge2a.v2h-cdn.com/boom_anime/boom_anime.stream/playlist.m3u8
+#EXTINF:-0 group-title="CARTOON" tvg-logo="https://dookeela.live/uploads/1708344362.png",nickjr
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truenickjr.m3u8
+
+#EXTINF:-1 tvg-logo="https://bbk100.xyz/media/cache/strip/202507/movie/fa7ac866d84f05800ca260f456680f53.jpg" group-title="หนังการ์ตูน" ,Demon Slayer Kimetsu no Yaiba (2025) ดาบพิฆาตอสูร ภาคปราสาทไร้ขอบเขต
+https://vod1.stream25.com/Demon-Slayer-Kimetsu-no-Yaiba-2025-V1-sub.mp4.m3u8
+
+#EXTINF:-1 tvg-id="433" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg" group-title="Kids", Nick HD++
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
+https://v18tataplaysyndication.akamaized.net/bpk-tv/Nick_HD_Plus_voot_MOB/output03/hdntl=exp=1744286182~acl=%2f*~data=hdntl~hmac=2f3d299dd14ebad599ffa7ba3e3997140d3337ab13d773ed75d7fedb048b7476/Nick_HD_Plus_voot_MOB.m3u8
+
+
+
+#EXTINF:-1 tvg-id="1373" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd?__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af&xxx=%7Ccookie=__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af
+
+#EXTINF:-1 tvg-id="1374" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Junior.png",Disney Junior
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b1f9702f7d853c1b198495f64924311:40e11e60a12dd6c154dfea0ffbd5bda8
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Junior_BTS/output/index.mpd?__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af&xxx=%7Ccookie=__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af
+
+#EXTINF:-1 tvg-id="1375" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_International_HD.png",Disney International HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0e021aa91c65e68a7028c2a6a762eca:d50822403365e360d12840251cecee84
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_International_HD_BTS/output/index.mpd?__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af&xxx=%7Ccookie=__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af
+
+#EXTINF:-1 tvg-id="816" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea48cf7b24dd54dd98c369626b9ad105:ee5778d627dfae2c2affc02d76e8db6c
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Cartoon_Network_Hindi_BTS/output/index.mpd?__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af&xxx=%7Ccookie=__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af
+
+#EXTINF:-1 tvg-id="817" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png",Cartoon Network Tamil
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=553fc9bdb0115b24b23d04be203d1b9d:a220f0a32aaee1e6989ef8e6a6728fe1
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Cartoon_Network_Hindi_MOB/WDVLive/index.mpd?__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af&xxx=%7Ccookie=__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af
+
+#EXTINF:-1 tvg-id="1" group-title="Kids" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/440px-2014_Disney_Channel_logo.svg.png",Disney SD
+http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/117791.ts
+#EXTINF:-1 tvg-id="6" group-title="Movies" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD
+https://live.drmlive-02.workers.dev/sliv/maxhd.m3u8
+#EXTINF:-1 tvg-id="7" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
+https://live.drmlive-02.workers.dev/sliv/sony.m3u8
+
+#EXTINF:-1 tvg-id="1373" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd?__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af&xxx=%7Ccookie=__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af
+
+
+
+#EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd?__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af&xxx=%7Ccookie=__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af
+
+#EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network Hindi" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea48cf7b24dd54dd98c369626b9ad105:ee5778d627dfae2c2affc02d76e8db6c
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Cartoon_Network_Hindi_BTS/output/index.mpd?__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af&xxx=%7Ccookie=__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af
+
+#EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc128a8dcc751829ec7ed9c678ecb6f:95f49d83ad11868e15e64baf5dec62ac
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Hindi_BTS/output/index.mpd?__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af&xxx=%7Ccookie=__hdnea__=st=1756725583~exp=1756811983~acl=/*~hmac=46a60583f4b9cdc4c01818ed4ec203ce194815c2ecaf8c594a5d8d4df722a2af
+
+#EXTINF:-1 channel-id="samsung-INBD13000043W" tvg-id="INBD13000043W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000043W_20231213T034416SQUARE.png_20231213034417.png" group-title="Kids" tvg-chno="1275",Animax
+https://jmp2.uk/sam-INBD13000043W.m3u8
+#EXTINF:-1, tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="Times play",Movies Now HD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="JioTV",Disney Channel
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd?__hdnea__=st=1755987709~exp=1756074109~acl=/*~hmac=bf894d1b5f307879c3f83ad99cd23810c6d84c6785de840aeaef105b89a82908&xxx=%7Ccookie=__hdnea__=st=1755987709~exp=1756074109~acl=/*~hmac=bf894d1b5f307879c3f83ad99cd23810c6d84c6785de840aeaef105b89a82908
+
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="JioTV",Zee Cinema HD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" group-title="JioTV",Sony MAX HD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36&Cookie=__hdnea__=st=1755987709~exp=1756074109~acl=/*~hmac=bf894d1b5f307879c3f83ad99cd23810c6d84c6785de840aeaef105b89a82908
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png",Sony MAX HD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1756088296~acl=%2f*~data=hdntl~hmac=a76db3d9e0b7533a01291f02258dcb61ef3b7e687d7526881a3d381a08345f5f
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png",Star Gold HD
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0&Cookie=__hdnea__=st=1756034305~exp=1756120705~acl=/*~hmac=ef2829ca981b3ca9718c4dbfda99f89078d9d0b4f43ff2a5413aef3a7675b826
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/output/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm={"org.w3.clearkey":{"license":{"keyids":{"5181d3e6698055578cedc5bfc86b3e56":"3dca7917d8cf9bb7095dc72b48bdcd3c"}}}}
+#KODIPROP:inputstream.adaptive.common_headers=User-Agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0&Cookie=__hdnea__=st=1756173509~exp=1756259909~acl=/*~hmac=7e70143ae4d5449a6a5e69297c22229b289a961a6041b9125592f25c326fc454
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd?__hdnea__=st=1756173509~exp=1756259909~acl=/*~hmac=7e70143ae4d5449a6a5e69297c22229b289a961a6041b9125592f25c326fc454&xxx=%7Ccookie=__hdnea__=st=1756173509~exp=1756259909~acl=/*~hmac=7e70143ae4d5449a6a5e69297c22229b289a961a6041b9125592f25c326fc454
+
+
+#EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="JIOTV+ Kids" group-logo="https://play-lh.googleusercontent.com/nB9r04Z3hpl-iA4dChI2ontKxsJKjPi1N-WsXrMngMRH3Js31M3lKpdO0gZqvfsIQK-x=w480-h960-rw",Disney Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=5181d3e6698055578cedc5bfc86b3e56&key=3dca7917d8cf9bb7095dc72b48bdcd3c
+https://playflix.icu/mahesh/Jiotv/manifest.php?id=1373
