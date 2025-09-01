@@ -327,3 +327,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTINF:-1vg-name="ACTIONHWHD", Action Hollywood Movies HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
+#EXTINF:0 tvg-id="happykids"  group-title="KID" tvg-logo="https://i.ibb.co/4Y4yxZq/Happy-Kids.png",Happy Kids
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://oipf0znpmnliv.vcdn.cloud/hls/happykid/index.m3u8
+#EXTVLCOPT:http-referrer=http://sctvonline.vn
+#https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8?
+
+tvg-id="http://viettel.nekocdn.xyz/Animax/index.m3u8 và https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/animax.smil/manifest.mpd" group-title="🅺🅸🅳" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Animax%20HD.png",ANIMAX HD
+
