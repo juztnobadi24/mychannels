@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="kapamilyachannel" tvg-name="KAPAMILYA CHANNEL" tvg-logo="" group-title="Philippines",KAPAMILYA CHANNEL
 #EXTVLCOPT:dash-https-protection=playready
