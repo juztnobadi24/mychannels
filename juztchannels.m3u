@@ -28,13 +28,6 @@ https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Kids",BOOMERANG
 https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 
-
-#EXTINF:-1 tvg-id="Animax" tvg-logo="https://th.bing.com/th/id/OIP.39-tpYJk2UwoQjQc7Af_oAHaCi?rs=1&pid=ImgDetMain" group-title="Anime",Animax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:input-slave="https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd"
-#EXTVLCOPT:dash-cpix-clear-key=edf1a715de9748638dd2fad75a419af2=2f5a3199b26e9b693ae881af7ff864cf
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Family;Movies",Rakuten TV Family Movies UK (1080p)
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
 
@@ -338,16 +331,3 @@ https://stream3.shopch.jp/HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="RakutenPopUK",Pop UK Rakuten
 https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Animax (HK)
-http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
-
-#EXTINF:-1,NBA TV
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
-
-#EXTINF:-1 group-title="JEPANG" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
-http://vthanh.utako.moe/Animax/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/WarnerTV.png" group-title="movies",WarnerTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://WahyuIPTV.short.gy/WarnerTV-HD.mpd
