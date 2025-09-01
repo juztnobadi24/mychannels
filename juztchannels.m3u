@@ -338,3 +338,9 @@ https://stream3.shopch.jp/HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="RakutenPopUK",Pop UK Rakuten
 https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Animax (HK)
+http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+
+#EXTINF:-1,NBA TV
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
