@@ -328,6 +328,54 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 tvg-id="ShopChannel.jp" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png" group-title="Shop",Shop Channel (1080p) [Not 24/7]
 https://stream3.shopch.jp/HLS/master.m3u8
 
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed SD" group-title="Live",Cartoon Network USA Eastern Feed SD
+https://tvpass.org/live/CartoonNetworkEast/sd
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed HD" group-title="Live",Cartoon Network USA Eastern Feed HD
+https://tvpass.org/live/CartoonNetworkEast/hd
 
 #EXTINF:-1 tvg-id="RakutenPopUK",Pop UK Rakuten
 https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed SD" group-title="Live",HBO Eastern Feed SD
+https://tvpass.org/live/HBOEast/sd
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed HD" group-title="Live",HBO Eastern Feed HD
+https://tvpass.org/live/HBOEast/hd
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed SD" group-title="Live",HBO 2 Eastern Feed SD
+https://tvpass.org/live/HBO2East/sd
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed HD" group-title="Live",HBO 2 Eastern Feed HD
+https://tvpass.org/live/HBO2East/hd
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East SD" group-title="Live",HBO Comedy HD East SD
+https://tvpass.org/live/HBOComedyEast/sd
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East HD" group-title="Live",HBO Comedy HD East HD
+https://tvpass.org/live/HBOComedyEast/hd
+#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed SD" group-title="Live",HBO Family Eastern Feed SD
+https://tvpass.org/live/HBOFamilyEast/sd
+#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed HD" group-title="Live",HBO Family Eastern Feed HD
+https://tvpass.org/live/HBOFamilyEast/hd
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern SD" group-title="Live",HBO Signature (HBO 3) Eastern SD
+https://tvpass.org/live/HBOSignatureEast/sd
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="Live",HBO Signature (HBO 3) Eastern HD
+https://tvpass.org/live/HBOSignatureEast/hd
+#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East SD" group-title="Live",HBO Zone HD East SD
+https://tvpass.org/live/HBOZoneEast/sd
+#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East HD" group-title="Live",HBO Zone HD East HD
+https://tvpass.org/live/HBOZoneEast/hd
+
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern SD" group-title="Live",National Geographic US Eastern SD
+https://tvpass.org/live/NationalGeographicEast/sd
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern HD" group-title="Live",National Geographic US Eastern HD
+https://tvpass.org/live/NationalGeographicEast/hd
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild SD" group-title="Live",National Geographic Wild SD
+https://tvpass.org/live/NationalGeographicWildEast/sd
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild HD" group-title="Live",National Geographic Wild HD
+https://tvpass.org/live/NationalGeographicWildEast/hd
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA SD" group-title="Live",NBA TV USA SD
+https://tvpass.org/live/NBATV/sd
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA HD" group-title="Live",NBA TV USA HD
+https://tvpass.org/live/NBATV/hd
+
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Sparks @ Seattle Storm (09/01 10:00 PM ET) SD" group-title="WNBA",Los Angeles Sparks @ Seattle Storm (09/01 10:00 PM ET) SD
+https://tvpass.org/live/NBATV/sd
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Sparks @ Seattle Storm (09/01 10:00 PM ET) HD" group-title="WNBA",Los Angeles Sparks @ Seattle Storm (09/01 10:00 PM ET) HD
+https://tvpass.org/live/NBATV/hd
+
