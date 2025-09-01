@@ -334,3 +334,119 @@ https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 tvg-id="ShopChannel.jp" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png" group-title="Shop",Shop Channel (1080p) [Not 24/7]
 https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="ActionChannel.jp" tvg-name="アクションチャンネル" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png" group-title="Movies & Drama",Action Channel
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="Animax.jp" tvg-name="BSアニマックス" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png" group-title="Movies & Drama",Animax
+#EXTINF:-1 tvg-id="AnimaxAsia.sg@Japan" tvg-name="BSアニマックス" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png" group-title="Movies & Drama",Animax
+http://vthanh.utako.moe/Animax/index.m3u8
+#EXTINF:-1 tvg-id="BSFuji4K.jp" tvg-name="BSフジテレビ" tvg-logo="https://i.imgur.com/Ayb576P.png" group-title="Movies & Drama",BS Fuji TV
+https://45.58.2.147/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+@@ -29,7 +29,7 @@ https://stream02.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:2
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="NihonEigaSenmonChannel.jp" tvg-name="日本映画専門チャンネル" tvg-logo="https://i.postimg.cc/ydDMrbTZ/Nihon-Eiga-Senmon-Channel.jpg" group-title="Movies & Drama",Nihon Eiga Senmon Channel
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="StarChannel.jp" tvg-name="BS10スターチャンネル" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/640px-Star_Channel-Japan.svg.png" group-title="Movies & Drama",Star Channel
+#EXTINF:-1 tvg-id="StarBS10.jp" tvg-name="BS10スターチャンネル" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/640px-Star_Channel-Japan.svg.png" group-title="Movies & Drama",Star Channel
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="SuperDramaTV.jp" tvg-name="スーパー!ドラマTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_drama_tv.png" group-title="Movies & Drama",Super! Drama TV
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
+#EXTINF:-92 tvg-id="615.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="📺 Animation",Cartoon Network Southeast Asia (1080p)
+https://cdnssc.wewatch.asia/b3A9WTJsa1BUY3lOak0yTkRkRlFUazNNRFF4TmpkQ1JrUkROekl5TVROQ056QTRNa1JGSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTINF:-92 player-buffer="50" tvg-id="CNUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="📺 Animation",Cartoon Network USA (WEST) (1080p)
+http://vp-txpro.com/2HK9A/23HK2/52004
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTINF:-92 player-buffer="50" tvg-id="CNUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="📺 Animation",Cartoon Network USA (EAST) (1080p)
+https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="cartoonitoasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1000px-Cartoonito_-_Logo_2021.svg.png" group-title="📺 Animation",CARTOONITO ASIA (1080p)
+https://cdnssc.wewatch.asia/b3A9WTJsa1BUbENRa0kyT0VRNFJFUTRSalJCTkVZNVJURTJOamN5TXpVeU9ESkVSalZDSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTINF:-92 player-buffer="50" tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="📺 Animation",Boomerang USA (1080p)
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/176822
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTINF:-92 player-buffer="50" tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="📺 Animation",Boomerang UK (720p)
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/153832
+#EXTINF:-1 tvg-id="ATX.jp" tvg-logo="https://i.imgur.com/turWday.png" group-title="📺 Animation",AT-X (720p)
+http://vthanh.utako.moe/11/index.m3u8
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
+#EXTINF:-93 tvg-id="5342" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="📺 Animation",ANIMAX ASIA (Indonesian Subtitle) (720p)
+#EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
+#EXTINF:-93 tvg-id="5342" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="📺 Animation",ANIMAX ASIA (English Subtitle) (1080p)
+http://pwzdtkq.leadcool.xyz/3CEditor/9755DBD8/191845
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"edf1a715de9748638dd2fad75a419af2":"2f5a3199b26e9b693ae881af7ff864cf"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTINF:-93 tvg-id="5342" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="📺 Animation",ANIMAX ASIA (1080p)
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTINF:-94 player-buffer="50" tvg-id="5340" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="📺 Animation",AniPlus (Indonesian Subtitle) (720p)
+http://iptvtree.net:8080/romaniamedia/178cdde57b/298504
+https://cdnssc.wewatch.asia/b3A9WTJsa1BUazNNVFJHUXpsRE1qWTBNRFEzTkRBNU9URkRORUl3TVRWR01VWkVRakV6Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/1080P_h264_master.m3u8
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTINF:-94 player-buffer="50" tvg-id="5340" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="📺 Animation",AniPlus (Indonesian Subtitle) (576p)
+http://210.210.155.35/uq2663/h/h201/02.m3u8
+#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co/DgC0xN3/animax.png" group-title="KIDS", ANIMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#EXTINF:-1 group-title="ANIME"  tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Faniplus.png?alt=media&token=2fa2d637-1c28-4c64-b0a7-9d69c7435595",AniPlus Indonesia
+http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="Kids" tvg-id="Animax (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.visionplus.id/images/repository/991/49991-SNAPSHOT-l.png",Animax
+https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Animax.m3u8
+
+#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
+https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
+
+
+#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",NICKJR
+https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8?c
+
+#EXTINF:-1 tvg-chno="500" tvg-id="My Kidz" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="Kids",MyKidz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
+
+#EXTINF:-1 tvg-id="dxd.ca",Disney XD Canada
+http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1915
+http://5.181.236.159:8484/stream/canada/disneyxdcanada/master.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.ca",Nick Canada
+http://212.102.58.155:1234/stream/canada/nickelodeoncanada/master.m3u8
+http://5.181.236.159:8484/stream/canada/nickelodeoncanada/master.m3u8
+#EXTINF:-1 tvg-id="d.ca",Disney Channel Canada
+http://212.102.58.155:1234/stream/canada/disneychannelcanada/master.m3u8
+http://5.181.236.159:8484/stream/canada/disneychannelcanada/master.m3u8
+#EXTINF:-1 tvg-id="b.ca",Boomerang Canada
+http://212.102.58.155:1234/stream/canada/boomerang/master.m3u8
+http://5.181.236.159:8484/stream/canada/boomerang/master.m3u8
+
+#EXTINF:-1 tvg-id="Animax.jp",Animax
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:1 tvg-id="AT-X.jp",AT-X
+https://neetball.net/live/neet3.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.jp",Disney Channel Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF:-1 tvg-id="DisneyJrJapan",Disney Junior Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1 tvg-id="CartoonNetworkJapan",Cartoon Network Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1 tvg-id="Nicktoons-global2",NickToons Global (Armenian audio)
+https://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1,KidsCo
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281501
+#EXTINF:-1 tvg-id="RakutenPopUK",Pop UK Rakuten
+https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8
