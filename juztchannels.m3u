@@ -28,18 +28,11 @@ https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Kids",BOOMERANG
 https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Family;Movies",Rakuten TV Family Movies UK (1080p)
-https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
-
 #EXTINF:-1,30A We Love Cars
 https://30a-tv.com/feeds/vidaa/cars.m3u8
 
 #EXTINF:-1,EWTN Asia-Pacific (720p) [Not 24/7]
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-
-#EXTINF:-1,Outdoor Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="24 HOUR FREE MOVIES"  tvg-logo="https://provider-static.plex.tv/epg/images/thumbnails/24hrfreemovies_artwork_vertical.jpg" group-title="GENERAL" , 24 Hour Free Movies
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
@@ -219,8 +212,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8
 #EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Kids",Disney Junior East
 https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids",Disney XD (720p)
-http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-id="KartoonChannel",Kartoon Channel HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
@@ -229,8 +220,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchan
 #EXTINF:-1 tvg-id="KetchupTV.us" tvg-logo="https://i.imgur.com/XRGioQX.png" group-title="Kids",Ketchup TV (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171
 
-#EXTINF:-1 tvg-id="NickJr.us@East" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids",Nick Jr East
-https://fl3.moveonjoy.com/NICK_JR/index.m3u8
 
 #EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-logo="https://i.imgur.com/7EngqUi.png" group-title="Kids",Ninja Kidz TV
 https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
