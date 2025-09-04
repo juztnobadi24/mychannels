@@ -20,6 +20,9 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.
 #EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-logo="https://i.imgur.com/bYZtd0G.png" group-title="Animation",Anime All Day
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496
 
+#EXTINF:-1 tvg-id="Animax" tvg-logo="https://diokkgp6AHaH/1634257289.svg/1200" group-title="Animation",Animax
+https://70e0567ff5.3aca913821.tcxfa/out/b22c/index2832BsGyxd.m3u8?token=medialibraec121ddf2422b122df0_tvnpinoy_Office_lopx-MdcQsnbaph
+
 
 #EXTINF:-1 tvg-id="ANC" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/5/52/ANC_HD_Logo_2016.png/revision/latest?cb=20180404015018" group-title="News",ANC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
