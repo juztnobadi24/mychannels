@@ -16,6 +16,10 @@ https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PBS Kids" tvg-name="PBS Kids" tvg-logo="https://imgur.com/RNtLJ3S.png" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
 
+#EXTINF:-1 tvg-id="Animax" tvg-logo="https://i.imgur.com/iYRTs2n.png" group-title="News",Animaxes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:dash-clearkeys=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
