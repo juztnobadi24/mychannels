@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xspf version="1" xmlns="http://xspf.org/ns/0/">
+  <title>IPTV Playlist</title>
+  <trackList>
+    <track>
+      <title>KAPAMILYA CHANNEL</title>
+      <location>https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>PTV 4</title>
+      <location>https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>CINEMA ONE</title>
+      <location>https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>NBA TV Philippines</title>
+      <location>https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>TV5 HD</title>
+      <location>https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>CINEMO!</title>
+      <location>https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Pinoy Box Office (PBO)</title>
+      <location>https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Viva Cinema</title>
+      <location>https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Tagalog Movie Channel (TMC)</title>
+      <location>https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Animax</title>
+      <location>https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd</location>
+      <image>https://th.bing.com/th/id/OIP.39-tpYJk2UwoQjQc7Af_oAHaCi</image>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>AXN</title>
+      <location>https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Lifetime SD</title>
+      <location>https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>HBO HD</title>
+      <location>https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>HBO Family HD</title>
+      <location>https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>HBO Signature HD</title>
+      <location>https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>HBO Hits HD</title>
+      <location>https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Cinemax HD</title>
+      <location>https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>HITS Movies</title>
+      <location>https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Rock Action</title>
+      <location>https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Tap Action Flix HD</title>
+      <location>https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>CNN HD</title>
+      <location>https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cnnhd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>One PH</title>
+      <location>https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>One News</title>
+      <location>https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Nickelodeon SD</title>
+      <location>https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_nickelodeon.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>DepEd TV</title>
+      <location>https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Animal Planet</title>
+      <location>https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>BBC Earth HD</title>
+      <location>https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Discovery Channel SD</title>
+      <location>https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Asian Food Network</title>
+      <location>https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Cartoon Network HD</title>
+      <location>https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Nick JR</title>
+      <location>https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Kix HD</title>
+      <location>https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Thrill SD</title>
+      <location>https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>SPOTV HD</title>
+      <location>https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/cg_spotvhd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>SPOTV 2 HD</title>
+      <location>https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>TV Maria</title>
+      <location>https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/tvmaria_prd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Lotus Macau</title>
+      <location>https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Premier Sports HD</title>
+      <location>https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_ps_hd1.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>DreamWorks Tagalized</title>
+      <location>https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd</location>
+      <image>https://i.imgur.com/fh1Lg7b.png</image>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>DreamWorks</title>
+      <location>https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd</location>
+      <image>https://i.imgur.com/fh1Lg7b.png</image>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Disney Channel</title>
+      <location>https://disney-channel.13l.link/live/Disney/index.m3u8</location>
+      <image>https://i.imgur.com/NVRbZfJ.png</image>
+      <annotation>HLS</annotation>
+    </track>
+    <track>
+      <title>A2Z</title>
+      <location>https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>One Sports HD</title>
+      <location>https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>PBA Rush</title>
+      <location>https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>UAAP Varsity Channel</title>
+      <location>https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+    <track>
+      <title>Warner TV HD</title>
+      <location>https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/cg_warnerhd.mpd</location>
+      <annotation>DASH</annotation>
+    </track>
+  </trackList>
+</xspf>
