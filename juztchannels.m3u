@@ -17,9 +17,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscb
 #EXTINF:-1 tvg-id="Billiard TV" tvg-logo="https://th.bing.com/th/id/OIP.JKBoiu3cX_PVMSwZLYFxCAHaHa?rs=1&pid=ImgDetMain" group-title="Sports",Billiard TV
 https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-BilliardTV/BILLIARDTV_SCTE.m3u8
 
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Kids",BOOMERANG
-https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
-
 #EXTINF:-1,30A We Love Cars
 https://30a-tv.com/feeds/vidaa/cars.m3u8
 
@@ -126,9 +123,6 @@ https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
 #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="Movies",FX Movie Channel (720p)
 https://tvpass.org/live/FXMovieChannel/hd
 
-#EXTINF:-1 tvg-id="LifetimeMovies.us@East" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="Movies",Lifetime Movies East
-https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-
 #EXTINF:-1 tvg-id="MadeInHollywood.us" tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="Movies",Made in Hollywood
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 
@@ -152,9 +146,6 @@ https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8
 
 #EXTINF:-1 tvg-id="NEWKMOVIES.us@SD" tvg-logo="https://i.imgur.com/wCgirjc.png" group-title="Movies",NEW K.MOVIES (1080p)
 https://ec3b4b7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X05FV0tNT1ZJRVNfSExT/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ParamountNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Movies;Series",Paramount Network East
-https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="PersianaKorea.fr" tvg-logo="https://i.imgur.com/si2ZnIA.png" group-title="Movies",Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
